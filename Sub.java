@@ -1,3 +1,3 @@
 public class Sub {
-    int name = 1;
+    int name2 = 1;
 }
